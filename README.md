@@ -1,5 +1,5 @@
 # Estudo
-Este é um projeto simples de um App web utilizando coneitos do Angular e Bootstrap.
+This is a simple project of a web App using Angular and Bootstrap.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
