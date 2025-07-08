@@ -1,16 +1,50 @@
-# Estudo
-This is a simple project of a web App using Angular and Bootstrap.
+# 🇬🇧 App Aprendendo Inglês – Angular + TypeScript
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+Este é um projeto educacional criado com o objetivo de **praticar os fundamentos do Angular**, incluindo sua estrutura de componentes, serviços, rotas e data binding. A aplicação simula uma ferramenta de apoio ao aprendizado da língua inglesa.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## 🧠 Objetivo
 
-## Code scaffolding
+Explorar e aplicar conceitos básicos do Angular, como:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Componentização e estrutura de módulos
+- Comunicação entre componentes
+- Diretivas, pipes e eventos
+- Integração com serviços e simulação de dados
+- Boas práticas com TypeScript e organização de código
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## 🛠️ Tecnologias Utilizadas
+
+- [Angular](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- HTML5 + CSS3
+- JavaScript
+
+---
+
+## 🚀 Como executar o projeto
+
+### 📦 Pré-requisitos
+- **Node.js v16** (⚠️ obrigatório para evitar erros com OpenSSL)
+- [Angular CLI](https://angular.io/cli)
+
+### 💻 Passos
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/vkcosta/App-Aprendendo-Ingles.git
+   cd App-Aprendendo-Ingles
+
+2. Instale as dependências:
+   ```bash
+   npm install
+
+4. Execute o projeto:
+   ```bash
+   npm run start
+
+6. Acesse o link no seu navegador:
+   http://localhost:4200
