@@ -1,4 +1,4 @@
-# 🇬🇧 App Aprendendo Inglês – Angular + TypeScript
+# App Aprendendo Inglês – Angular + TypeScript
 
 Este é um projeto educacional criado com o objetivo de **praticar os fundamentos do Angular**, incluindo sua estrutura de componentes, serviços, rotas e data binding. A aplicação simula uma ferramenta de apoio ao aprendizado da língua inglesa.
 
