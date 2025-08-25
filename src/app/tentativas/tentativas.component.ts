@@ -6,7 +6,7 @@ import { Coracao } from '../shared/coracao.model';
   templateUrl: './tentativas.component.html',
   styleUrls: ['./tentativas.component.css']
 })
-export class TentativasComponent implements OnInit, OnChanges {
+export class TentativasComponent implements OnChanges {
 
   @Input() public tentativas: number;
 
@@ -25,10 +25,6 @@ export class TentativasComponent implements OnInit, OnChanges {
       let indice = this.coracoes.length - this.tentativas;
       this.coracoes[indice - 1].cheio = false;
     }
-
-  }
-
-  ngOnInit() {
 
   }
 }
