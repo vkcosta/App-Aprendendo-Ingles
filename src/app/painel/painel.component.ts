@@ -17,7 +17,7 @@ export class PainelComponent implements OnInit, OnDestroy {
 
   public progresso: number = 0;
 
-  public tentativas: number = 5;
+  public tentativas: number = 3;
 
   @Output() public encerrarJogo: EventEmitter<string> = new EventEmitter();
 
