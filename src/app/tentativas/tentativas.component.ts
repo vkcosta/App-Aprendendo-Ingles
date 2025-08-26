@@ -10,7 +10,7 @@ export class TentativasComponent implements OnChanges {
 
   @Input() public tentativas: number;
 
-  public coracoes: Coracao[] = []
+  public coracoes: Coracao[] = [];
 
   constructor() {
   }
