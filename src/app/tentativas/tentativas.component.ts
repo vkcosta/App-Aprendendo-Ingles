@@ -12,9 +12,6 @@ export class TentativasComponent implements OnChanges {
 
   public coracoes: Coracao[] = [];
 
-  constructor() {
-  }
-
   ngOnChanges(change: SimpleChanges) {
 
     if (change.tentativas.currentValue) {
